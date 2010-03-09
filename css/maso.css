@@ -51,6 +51,24 @@ input.search {
 	width:100%;
 }
 
+table.browser {
+	width:100%;
+}
+
+table.file {
+	border-top:2px solid #b30000;
+	border-bottom:2px solid #b30000;
+	background-color: rgba(255,245,128,0.25);
+}
+
+tr.filedetails {
+	font-size:smaller;
+}
+
+td.filename {
+	border-bottom:1px dashed #b30000;
+}
+
 div#menu {
 	margin:0px 20px 0px 20px;
 	text-align:center;
