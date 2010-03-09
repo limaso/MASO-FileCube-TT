@@ -1,6 +1,6 @@
 MASO FileCube TT
 ================
-*	- limaso. software & design solutions with the power of LIMA -*
+     *limaso. software & design solutions with the power of LIMA*
 
 idea:
 -----
@@ -13,10 +13,10 @@ latest to do:
  - server directory structure
  - server security options
  - mime file images (think about a public solution like by jimmac)
- - database structure
  
 done:
 -----
  - check if the server is reachable
  - main layout & design (the way it should go)
- - database ERM v1 (contains files, users, comments and categories)
+ - database ERM v1 (containing files, users, comments and categories)
+ - database structure
