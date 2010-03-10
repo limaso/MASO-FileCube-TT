@@ -6,12 +6,19 @@ idea:
 -----
  >An Air application that allows you to backup your personal files and share files with the
  whole world or appointed persons.
+ 
+screenshot:
+-----------
+![screenshot](http://github.com/limaso/MASO-FileCube-TT/raw/master/screenshot.png "Screenshot") 
 
 latest to do:
 -------------
  - server directory structure
  - server security options
  - file browser look & feel (still think about)
+ - adding a 3-stage-login system
+ - build & test database
+ - build & test file browser
  
 done:
 -----
